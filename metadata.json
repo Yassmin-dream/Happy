@@ -1,0 +1,8 @@
+{
+  "name": "Happy - Anti-Scrolling & Habitudes Positives",
+  "description": "Application Android Jetpack Compose et compagnon web interactif pour remplacer le scrolling compulsif par des activités positives, avec suivi, motivation, statistiques et sauvegarde Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

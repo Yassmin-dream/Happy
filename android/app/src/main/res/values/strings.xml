@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Happy</string>
+    <string name="app_tagline">Remplace le scroll par du positif</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Accueil</string>
+    <string name="nav_activities">Activités</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_rewards">Trophées</string>
+    <string name="nav_settings">Paramètres</string>
+
+    <!-- Anti-Scroll SOS -->
+    <string name="btn_anti_scroll">J\'ai envie de scroller</string>
+    <string name="anti_scroll_title">Respire profondément</string>
+    <string name="anti_scroll_subtitle">Choisis une alternative positive de 5 à 15 minutes</string>
+    <string name="anti_scroll_reward_msg">+50 points gagnés et série préservée !</string>
+
+    <!-- Catégories -->
+    <string name="cat_sport">Sport &amp; Mouvement</string>
+    <string name="cat_reading">Lecture</string>
+    <string name="cat_learning">Apprentissage</string>
+    <string name="cat_creativity">Créativité &amp; Art</string>
+    <string name="cat_social">Social &amp; Proches</string>
+    <string name="cat_wellbeing">Bien-être &amp; Méditation</string>
+    <string name="cat_project">Projet Personnel</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_reminders_name">Rappels bienveillants</string>
+    <string name="notif_channel_reminders_desc">Messages de motivation sans culpabilisation</string>
+    <string name="notif_channel_sync_name">Synchronisation Google Drive</string>
+    <string name="notif_channel_sync_desc">État des sauvegardes automatiques de vos données</string>
+
+    <!-- Google Drive -->
+    <string name="drive_status_connected">Connecté à Google Drive</string>
+    <string name="drive_status_disconnected">Non connecté</string>
+    <string name="drive_backup_success">Sauvegarde réussie sur Google Drive</string>
+    <string name="drive_backup_error">Erreur lors de la synchronisation Drive</string>
+</resources>
